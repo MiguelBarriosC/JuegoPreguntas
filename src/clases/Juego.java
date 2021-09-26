@@ -145,5 +145,4 @@ public class Juego {
 	public int getNivel() {
 		return nivel;
 	}
-	//falta imprimir el premio que gano cuando gana completo cuando pierde y cuando se retira y subir a github
 }
